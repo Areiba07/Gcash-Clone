@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h2 {
+    font-family: 'Gotham Rounded'
+}
+
+.p {
+    font-family: 'Gotham Rounded'
+}

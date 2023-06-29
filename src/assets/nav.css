@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Add these styles to your App.css file or create a new CSS file */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 30px; /* Increase the border-radius value for more rounded sides */
+  background-color: #FFFFFF; /* Set the background color to white */
+  color: #0C6CE5; /* Set the text color to GCash blue */
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #F5F5F5; /* Change the background color on hover if desired */
+}
+
+.button:active {
+  background-color: #E0E0E0; /* Change the background color when the button is active if desired */
+}
+
+
+
+
+
